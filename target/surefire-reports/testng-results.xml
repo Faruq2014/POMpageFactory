@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="121" started-at="2021-06-05T18:44:12 EDT" finished-at="2021-06-05T18:44:12 EDT">
+    <groups>
+    </groups>
+    <test name="Welcome Test" duration-ms="121" started-at="2021-06-05T18:44:12 EDT" finished-at="2021-06-05T18:44:12 EDT">
+      <class name="com.facebok.Rough.Welcome">
+        <test-method status="PASS" signature="wecomeTest()[pri:0, instance:com.facebok.Rough.Welcome@754ba872]" name="wecomeTest" duration-ms="27" started-at="2021-06-05T18:44:12 EDT" finished-at="2021-06-05T18:44:12 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wecomeTest -->
+      </class> <!-- com.facebok.Rough.Welcome -->
+    </test> <!-- Welcome Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
